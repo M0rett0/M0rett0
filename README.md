@@ -11,19 +11,6 @@ Tenho experiência com desenvolvimento mobile em Flutter e venho expandindo meus
 Atualmente, desenvolvo projetos pessoais, acadêmicos e profissionais que reforçam minha base técnica e minha visão de produto.
 
 
-## Tecnologias e Ferramentas
-
-### Front-End  
-- JavaScript / TypeScript 
-
-### Mobile
-- Flutter (dart) 
-
-### Outros
-- Git & GitHub  
-- Figma (UI/UX)  
-- Conceitos de APIs e integração  
-
 ## Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/eduardamorett0/ 
