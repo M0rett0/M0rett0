@@ -1,6 +1,6 @@
 # Hello, eu sou a Eduarda
 
-💻 Desenvolvedora com foco em **Front-End, UI/UX Design e Mobile (Flutter)**  
+💻 Desenvolvedora com foco em **Front-End web e mobile | UI/UX Design**  
 
 
 ## Sobre mim
